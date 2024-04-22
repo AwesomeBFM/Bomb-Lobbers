@@ -1,0 +1,7 @@
+name: BombLobbers
+version: '${version}'
+main: dev.awesomebfm.bomblobbers.BombLobbers
+api-version: '1.20'
+authors: [AwesomeBFM]
+description: A Mineplex classic on your own Minecraft Server!
+website: github.com/awesomebfm/bomb-lobbers
